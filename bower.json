@@ -16,7 +16,7 @@
 	"license": "MIT",
 	"homepage": "http://iominh.github.io/ng-scrollbars/",
 	"dependencies": {
-		"malihu-custom-scrollbar-plugin": "git@github.com:romko43/malihu-custom-scrollbar-plugin.git",
+		"malihu-custom-scrollbar-plugin": "git@github.com:romko43/malihu-custom-scrollbar-plugin.git#3.1.6",
 		"angular": "^1.2.21"
 	},
 	"ignore": [
